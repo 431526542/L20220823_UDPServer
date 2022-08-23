@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L20220823_UDPServer", "L20220823_UDPServer.vcxproj", "{193E1C87-BC20-4CC9-8CC5-1C68422DC6EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{193E1C87-BC20-4CC9-8CC5-1C68422DC6EC}.Debug|x64.ActiveCfg = Debug|x64
+		{193E1C87-BC20-4CC9-8CC5-1C68422DC6EC}.Debug|x64.Build.0 = Debug|x64
+		{193E1C87-BC20-4CC9-8CC5-1C68422DC6EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{193E1C87-BC20-4CC9-8CC5-1C68422DC6EC}.Debug|x86.Build.0 = Debug|Win32
+		{193E1C87-BC20-4CC9-8CC5-1C68422DC6EC}.Release|x64.ActiveCfg = Release|x64
+		{193E1C87-BC20-4CC9-8CC5-1C68422DC6EC}.Release|x64.Build.0 = Release|x64
+		{193E1C87-BC20-4CC9-8CC5-1C68422DC6EC}.Release|x86.ActiveCfg = Release|Win32
+		{193E1C87-BC20-4CC9-8CC5-1C68422DC6EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97564DD-4E74-4ED3-9707-F2DCF09323E8}
+	EndGlobalSection
+EndGlobal
